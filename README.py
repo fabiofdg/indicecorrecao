@@ -1,4 +1,5 @@
-#Índice de Correção
+#Índice de Correção 
+# Esse projeto busca os dados de índice de correção e salva em excel do Site: www.debit.com.br
 #!/usr/bin/env python
 # coding: utf-8
 print('by Fábio Guimarães\n© Copyright 2020. All Rights Reserved.')
