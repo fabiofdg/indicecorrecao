@@ -1,7 +1,8 @@
 #Índice de Correção
 #!/usr/bin/env python
 # coding: utf-8
-print('''by Fábio Guimarães\n© Copyright 2020. All Rights Reserved.''')
+print('by Fábio Guimarães\n© Copyright 2020. All Rights Reserved.')
+
 import urllib.request, re, openpyxl
 from urllib.request import Request, urlopen
 
